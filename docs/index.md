@@ -1,5 +1,7 @@
 
-<img src="https://github.com/mohammedrashithkp/mohammedrashithkp.github.io/blob/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
+<img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
+
+
 
 **Email:** [mohammedrashithkp@gmail.com](mailto:mohammedrashithkp@gmail.com)  
 **Phone:** +91 8129 766 999  
