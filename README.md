@@ -1,19 +1,12 @@
 
-<div style="display: flex; align-items: center; font-family: Arial, sans-serif;">
-    <!-- Profile Image -->
-    <img src="/images/profile.jpg" alt="Profile Photo" title="Mohammed Rashith KP" width="150px" height="auto" style="border-radius: 8px; margin-right: 20px;">
+<img src="images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
 
-    <!-- Contact Details -->
-    <div style="font-size: 14px; line-height: 1.5;">
-        <p><strong>Email:</strong> <a href="mailto:mohammedrashithkp@gmail.com">mohammedrashithkp@gmail.com</a></p>
-        <p><strong>Phone:</strong> +91 8129 766 999</p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohammed-rashith-kp">Mohammed Rashith KP</a></p>
-        <p><strong>GitHub:</strong> <a href="https://github.com/mohammedrashithkp">github.com/mohammedrashithkp</a></p>
-        <p><strong>Location:</strong> Malappuram, Kerala, India</p>
-    </div>
-</div>
+**Email:** [mohammedrashithkp@gmail.com](mailto:mohammedrashithkp@gmail.com)  
+**Phone:** +91 8129 766 999  
+**LinkedIn:** [Mohammed Rashith KP](https://www.linkedin.com/in/mohammed-rashith-kp)  
+**GitHub:** [github.com/mohammedrashithkp](https://github.com/mohammedrashithkp)  
+**Location:** Malappuram, Kerala, India
 
----
 
 ## **About Me**
 
