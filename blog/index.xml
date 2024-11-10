@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mohammed Rashith KP on Portfolio Website and Blog</title>
-    <link>https://mohammedrashithkp.github.io/</link>
-    <description>Recent content in Mohammed Rashith KP on Portfolio Website and Blog</description>
+    <title>Blogs on Portfolio Website and Blog</title>
+    <link>https://mohammedrashithkp.github.io/blog/</link>
+    <description>Recent content in Blogs on Portfolio Website and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mohammedrashithkp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mohammedrashithkp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://mohammedrashithkp.github.io/blog/</link>
