@@ -1,5 +1,5 @@
 
-<img src="images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
+<img src="../images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
 
 **Email:** [mohammedrashithkp@gmail.com](mailto:mohammedrashithkp@gmail.com)  
 **Phone:** +91 8129 766 999  
