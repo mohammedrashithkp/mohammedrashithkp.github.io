@@ -1,6 +1,7 @@
 ---
-[Home](.)
-[Blog](./blog/index.md)
+[Home](index.md)
+[Blog](blog/index.md)
+
 ---
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
