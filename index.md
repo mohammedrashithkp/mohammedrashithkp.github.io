@@ -1,6 +1,3 @@
-# Mohammed Rashith KP
-
----
 
 [Home](/)
 
