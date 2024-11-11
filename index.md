@@ -1,18 +1,14 @@
 
 [Home](/)
-
 [Blogs](/blogs/)
 
 ---
-
 [About Me](#about-me) • 
 [Education](#education) • 
 [Core Competencies](#core-competencies) • 
 [Experience](#professional-experience) •  
 [Certifications](#certifications) •  
 [Projects](#projects) • 
-
-
 ---
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
