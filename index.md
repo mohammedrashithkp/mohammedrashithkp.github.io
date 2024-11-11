@@ -63,8 +63,9 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ## **Projects** <a id="projects"></a>
 
-- **Elephant Quadruped Robot**: Designed and analyzed using **SolidWorks**, **Ansys**, and **MSC Adams**.
-- **Fingerprint Attendance System**: Automated attendance with **Arduino**, **Python** (Streamlit, Numpy), and **MariaDB**.
+- **Space Invaders Arcade Game**:Made a Classic arcade style shooter game developed in Python using **Pygame** Library.
+- **Elephant Quadruped Robot**: Made Static and Fatigue Analysis of a single quadruped leg under half load and full load conditions using **Ansys Structural Mechanical**.
+- **Fingerprint Attendance System**: Made **Streamlit** app for displaying and Filtering the attendence data from the Rasberry Pi 3B .
 - **Adjustable Hospital Bed**: Developed control program for an adjustable hospital bed with **Arduino** and a web interface using **HTML** and **CSS**.
 
 ---
