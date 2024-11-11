@@ -1,0 +1,5 @@
+title: "Personal Website"
+description: "Showcasing my projects and experience"
+theme: minima
+exclude:
+  - README.md
