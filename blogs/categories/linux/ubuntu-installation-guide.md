@@ -1,7 +1,6 @@
-<p align="center" style="font-size: 25px; text-decoration: none">
-  <a href="/index">Home</a> |
-  <a href="/blogs/index">Blogs</a> 
-</p>
+[Home](/)
+[Blogs](/blogs/)
+
 
 # A Beginner's Guide to Installing Linux
 
