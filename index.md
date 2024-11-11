@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="center" style="font-size: 25px; text-decoration: none">
   <a href="index.md">Home</a> |
-  <a href="./blogs/index.md">Blogs</a> |
+  <a href="./blogs/index.md">Blogs</a> 
 </p>
 
 <p align="center">
