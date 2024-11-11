@@ -1,5 +1,5 @@
 title: "Personal Website"
 description: "Showcasing my projects and experience"
-theme: minima
+theme: jekyll-theme-minimal
 exclude:
   - README.md
