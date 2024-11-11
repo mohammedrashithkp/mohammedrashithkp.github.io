@@ -1,5 +1,4 @@
 title: "Personal Website"
-theme: jekyll-theme-minimal
 include:
   - blog
   - images
