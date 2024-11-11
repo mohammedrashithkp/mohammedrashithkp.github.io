@@ -3,13 +3,14 @@
 [Blogs](/blogs/)
 
 ---
-[About Me](#about-me) • 
-[Education](#education) • 
-[Core Competencies](#core-competencies) • 
-[Experience](#professional-experience) • 
-[Certifications](#certifications) • 
-[Projects](#projects) 
-
+<p align="center">
+  <a href="#about-me">About Me</a> |
+  <a href="#education">Education</a> |
+  <a href="#core-competencies">Core Competencies</a> |
+  <a href="#professional-experience">Experience</a> |
+  <a href="#certifications">Certifications</a> |
+  <a href="#projects">Projects</a>
+</p>
 ---
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
