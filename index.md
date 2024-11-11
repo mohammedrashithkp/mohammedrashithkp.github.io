@@ -1,3 +1,15 @@
+---
+
+
+[About Me](#about-me) • 
+[Education](#education) • 
+[Core Competencies](#core-competencies-) • 
+[Experience](#professional-experience) • 
+[Certifications](#certifications) • 
+[Projects](#projects)
+
+
+---
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
 
@@ -10,7 +22,7 @@
 **Location:** Malappuram, Kerala, India
 
 
-## **About Me**
+## **About Me**  <a id="about-me"></a>
 
 I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing in **robotics, Python programming**, and **Linux systems**. With over a year of experience leading technical teams in robotics projects, I am currently enhancing my project management skills through the **Google Project Management Specialization** and developing a **Space Invaders Game**. Passionate about applying cutting-edge technologies to real-world problems.
 
@@ -20,7 +32,7 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ---
 
-## **Core Competencies**
+## **Core Competencies** <a id="core-competencies"></a>
 
 | **Area**                       | **Proficiency**   | **Relevant Projects & Tools**                      |
 |---------------------------------|-------------------|---------------------------------------------------|
@@ -40,7 +52,7 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ---
 
-## **Professional Experience**
+## **Professional Experience** <a id="professional-experience"></a>
 
 | **Role**                       | **Organization**                          | **Duration**       | **Responsibilities**                                                                                           |
 |---------------------------------|-------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -51,7 +63,7 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ---
 
-## **Education**
+## **Education** <a id="education"></a>
 
 | **Degree**                      | **Institution**                           | **Duration**   | **CGPA/Score**   | **Achievements**                                                                                               |
 |----------------------------------|-------------------------------------------|----------------|------------------|----------------------------------------------------------------------------------------------------------------|
@@ -61,7 +73,7 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ---
 
-## **Projects**
+## **Projects** <a id="projects"></a>
 
 - **Elephant Quadruped Robot**: Designed and analyzed using **SolidWorks**, **Ansys**, and **MSC Adams**.
 - **Fingerprint Attendance System**: Automated attendance with **Arduino**, **Python** (Streamlit, Numpy), and **MariaDB**.
@@ -69,7 +81,7 @@ I am a **Mechanical Engineering** undergraduate at **NIT Calicut**, specializing
 
 ---
 
-## **Certifications**
+## **Certifications** <a id="certifications"></a>
 
 - **Project Initiation: Starting a Successful Project** – Google, Coursera, 2024
 - **Foundations in Project Management** – Google, Coursera, 2024
