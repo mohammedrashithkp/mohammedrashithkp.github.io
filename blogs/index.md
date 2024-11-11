@@ -5,8 +5,8 @@ Welcome to my personal blog! Here, I share posts on various topics including tec
 
 In my blog, I cover topics such as:
 
-- [Setting up development environments](./categries/tech-tutorials/linux-installation-guide/)
-- [Exploring new tools like Kitty and Yazi](./categries/tech-tutorials/kitty-yazi-setup/)
+- [Setting up development environments](./categories/linux/ubuntu-installation-guide.md)
+- [Exploring new tools like Kitty and Yazi](./categories/linux/kitty-yazi-setup.md)
 
 Stay tuned for more posts, and feel free to explore my articles. If you have any questions or feedback, don’t hesitate to get in touch!
 
