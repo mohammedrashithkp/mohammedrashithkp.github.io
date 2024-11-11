@@ -1,9 +1,6 @@
 ---
-<p align =center >
-<a href="https://mohammedrashithkp.github.io/">Home</a>
-<a href="./blogs/index.md">Blog</a>
-</p> 
-
+[Home](.)
+[Blog](./blog/index.md)
 ---
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
