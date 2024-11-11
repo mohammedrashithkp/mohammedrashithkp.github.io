@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="index.md">Home</a> |
-  <a href="./blogs/index.md">Blogs</a> 
+  <a href="/">Home</a> |
+  <a href="/blogs/">Blogs</a> 
 </p>
 
 <p align="center">
