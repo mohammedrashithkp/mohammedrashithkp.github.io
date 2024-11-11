@@ -1,3 +1,5 @@
+[Home](/)
+[Blogs](/blogs/)
 
 
 # A Beginner's Guide to Installing Linux

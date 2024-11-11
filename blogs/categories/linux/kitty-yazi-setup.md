@@ -1,3 +1,5 @@
+[Home](/)
+[Blogs](/blogs/)
 
 
 # Setting Up Kitty and Yazi in Ubuntu

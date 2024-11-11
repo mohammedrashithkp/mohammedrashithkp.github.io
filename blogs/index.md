@@ -1,5 +1,5 @@
-[Home](/index.md)
-[Blogs](/blogs/index.md)
+[Home](/)
+[Blogs](/blogs/)
 
 
 # Welcome to My Blog!
