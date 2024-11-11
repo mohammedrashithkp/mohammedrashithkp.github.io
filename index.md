@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="font-size: 25px; text-decoration: none">
   <a href="/index">Home</a> |
   <a href="/blogs/index">Blogs</a> 
 </p>
