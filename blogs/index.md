@@ -1,3 +1,7 @@
+[Home](/index.md)
+[Blogs](/blogs/index.md)
+
+
 # Welcome to My Blog!
 
 Welcome to my personal blog! Here, I share posts on various topics including tech, development, robotics, and other areas of interest. You'll find tutorials, guides, updates on personal projects, and musings about new tools and technologies that I explore.

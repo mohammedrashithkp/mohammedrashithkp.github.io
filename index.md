@@ -1,17 +1,21 @@
+# Mohammed Rashith KP
 ---
 
-[Home](index.md)
-[Blogs](blogs/index.md)
+[Home](/index.md)
+[Blogs](/blogs/index.md)
 
 ---
 
----
+[About Me](#about-me) 
 
-[About Me](#about-me) • 
-[Education](#education) • 
-[Core Competencies](#core-competencies) • 
-[Experience](#professional-experience) • 
-[Certifications](#certifications) • 
+[Education](#education) 
+
+[Core Competencies](#core-competencies) 
+
+[Experience](#professional-experience) 
+
+[Certifications](#certifications) 
+
 [Projects](#projects)
 
 
