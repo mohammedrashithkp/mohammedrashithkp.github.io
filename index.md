@@ -1,8 +1,7 @@
-
-[Home](/)
-[Blogs](/blogs/)
-
----
+<p align="center">
+  <a href="index.md">Home</a> |
+  <a href="./blogs/index.md">Blogs</a> |
+</p>
 <p align="center">
   <a href="#about-me">About Me</a> |
   <a href="#education">Education</a> |
