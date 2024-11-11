@@ -1,6 +1,7 @@
-[Home](/)
-[Blogs](/blogs/)
-
+<p align="center" style="font-size: 25px; text-decoration: none">
+  <a href="/index">Home</a> |
+  <a href="/blogs/index">Blogs</a> 
+</p>
 
 # Setting Up Kitty and Yazi in Ubuntu
 
