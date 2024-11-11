@@ -8,17 +8,12 @@
 
 ---
 
-[About Me](#about-me) 
-
-[Education](#education) 
-
-[Core Competencies](#core-competencies) 
-
-[Experience](#professional-experience) 
-
-[Certifications](#certifications) 
-
-[Projects](#projects)
+[About Me](#about-me) • 
+[Education](#education) • 
+[Core Competencies](#core-competencies) • 
+[Experience](#professional-experience) •  
+[Certifications](#certifications) •  
+[Projects](#projects) • 
 
 
 ---
