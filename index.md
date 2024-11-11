@@ -11,7 +11,7 @@
   <a href="#certifications">Certifications</a> |
   <a href="#projects">Projects</a>
 </p>
----
+
 
 <img src="https://raw.githubusercontent.com/mohammedrashithkp/mohammedrashithkp.github.io/main/images/profile.jpg" alt="Mohammed Rashith KP" title="Mohammed Rashith KP" width="150px" height="auto">
 
