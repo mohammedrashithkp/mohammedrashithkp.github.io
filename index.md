@@ -2,9 +2,9 @@
 
 ---
 
-[Home](/index.md)
+[Home](/)
 
-[Blogs](/blogs/index.md)
+[Blogs](/blogs/)
 
 ---
 
