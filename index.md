@@ -1,6 +1,6 @@
 ---
-[Home](index.md)
-[Blog](blog/index.md)
+[Home](/index.md)
+[Blog](/blog/index.md)
 
 ---
 
