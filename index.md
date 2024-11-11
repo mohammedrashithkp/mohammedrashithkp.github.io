@@ -1,3 +1,9 @@
+---
+
+[Home](index.md)
+[Blogs](blogs/index.md)
+
+---
 
 ---
 
