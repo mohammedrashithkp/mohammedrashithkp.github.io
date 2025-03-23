@@ -6,6 +6,47 @@
     <description>Recent content in Posts on Mohammed Rashith KP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Mar 2025 01:18:00 +0530</lastBuildDate><atom:link href="https://mohammedrashithkp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Mar 2025 01:58:30 +0530</lastBuildDate><atom:link href="https://mohammedrashithkp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step-by-Step Guide to Resolve GRUB Rescue and Boot into Windows</title>
+      <link>https://mohammedrashithkp.github.io/posts/step-by-step-guide-to-resolve-grub-rescue-and-boot-into-windows/</link>
+      <pubDate>Mon, 24 Mar 2025 01:58:30 +0530</pubDate>
+      
+      <guid>https://mohammedrashithkp.github.io/posts/step-by-step-guide-to-resolve-grub-rescue-and-boot-into-windows/</guid>
+      
+      <description>&lt;h1 id=&#34;step-by-step-guide-to-resolve-grub-rescue-and-boot-into-windows&#34;&gt;Step-by-Step Guide to Resolve GRUB Rescue and Boot into Windows&lt;/h1&gt;
+&lt;p&gt;If you tried removing Linux and are now greeted with a black screen with &amp;ldquo;Grub Rescue&amp;rdquo; on it, don&amp;rsquo;t panic—we&amp;rsquo;ve all been there. We&amp;rsquo;ll get through it without affecting any other data by following a few simple steps.&lt;/p&gt;
+&lt;h2 id=&#34;why-this-occurred&#34;&gt;Why This Occurred&lt;/h2&gt;
+&lt;p&gt;When you installed Linux, it created a folder in the main EFI partition alongside Windows. This folder pointed to the partition where Linux was installed, and when you removed Linux (likely using Windows partition tools), the computer panicked because it couldn&amp;rsquo;t find the necessary folder. We can fix this by getting your system back to Windows and updating the boot manager.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dualboot Linux Mint 21.3</title>
+      <link>https://mohammedrashithkp.github.io/posts/dualboot-linux-mint-21.3/</link>
+      <pubDate>Mon, 24 Mar 2025 01:52:41 +0530</pubDate>
+      
+      <guid>https://mohammedrashithkp.github.io/posts/dualboot-linux-mint-21.3/</guid>
+      
+      <description>&lt;h2 id=&#34;dualboot-linux-mint-213&#34;&gt;Dualboot Linux Mint 21.3&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Disclaimer:
+&amp;ldquo;The owner of this project, platform, or service shall not be held liable for any loss, damage, or corruption of data, whether caused by system failures, user errors, or any other unforeseen circumstances. By using this service, the user acknowledges and agrees that they are solely responsible for backing up and protecting their data. The owner makes no representations or warranties regarding the security, accuracy, or completeness of any data stored or processed through the service.&amp;rdquo;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Hassle-free Ros2 Setup</title>
+      <link>https://mohammedrashithkp.github.io/posts/hassle-free-ros2-setup/</link>
+      <pubDate>Mon, 24 Mar 2025 01:01:33 +0530</pubDate>
+      
+      <guid>https://mohammedrashithkp.github.io/posts/hassle-free-ros2-setup/</guid>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Disclaimer:
+&amp;ldquo;This is not an official ROS2 distribution. This is a file that installs from the official ROS2 repositories. The owner of this project, platform, or service shall not be held liable for any loss, damage, or corruption of data, whether caused by system failures, user errors, or any other unforeseen circumstances. By using this service, the user acknowledges and agrees that they are solely responsible for backing up and protecting their data. The owner makes no representations or warranties regarding the security, accuracy, or completeness of any data stored or processed through the service.&amp;rdquo;&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
