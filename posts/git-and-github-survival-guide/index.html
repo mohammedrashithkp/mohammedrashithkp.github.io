@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title itemprop="name">Git &amp; Github Beginner Routines Cheat Sheet | Mohammed Rashith KP</title>
+<meta property="og:title" content="Git &amp; Github Beginner Routines Cheat Sheet | Mohammed Rashith KP" />
+<meta name="twitter:title" content="Git &amp; Github Beginner Routines Cheat Sheet | Mohammed Rashith KP" />
+<meta itemprop="name" content="Git &amp; Github Beginner Routines Cheat Sheet | Mohammed Rashith KP" />
+<meta name="application-name" content="Git &amp; Github Beginner Routines Cheat Sheet | Mohammed Rashith KP" />
+<meta property="og:site_name" content="Mohammed Rashith KP" />
+
+<meta name="description" content="Minimal Hugo blog theme with light and dark mode support">
+<meta itemprop="description" content="Minimal Hugo blog theme with light and dark mode support" />
+<meta property="og:description" content="Minimal Hugo blog theme with light and dark mode support" />
+<meta name="twitter:description" content="Minimal Hugo blog theme with light and dark mode support" />
+
+<meta property="og:locale" content="en-gb" />
+<meta name="language" content="en-gb" />
+
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/posts/git-and-github-survival-guide/" title="English" />
+
+
+
+
+
+    
+    
+    
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content=2025-06-29T00:56:05&#43;0530 />
+    <meta property="article:published_time" content=2025-06-29T00:56:05&#43;0530 />
+    <meta property="og:url" content="http://localhost:1313/posts/git-and-github-survival-guide/" />
+
+    
+    <meta property="og:article:author" content="Mohammed Rashith KP" />
+    <meta property="article:author" content="Mohammed Rashith KP" />
+    <meta name="author" content="Mohammed Rashith KP" />
+    
+    
+
+    
+
+    <script defer type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "Git \u0026 Github Beginner Routines Cheat Sheet",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "datePublished": "2025-06-29",
+        "description": "",
+        "wordCount":  357 ,
+        "mainEntityOfPage": "True",
+        "dateModified": "2025-06-29",
+        "image": {
+        "@type": "imageObject",
+        "url": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Mohammed Rashith KP"
+        }
+    }
+    </script>
+
+
+<meta name="generator" content="Hugo 0.147.9">
+
+    
+    <meta property="og:url" content="http://localhost:1313/posts/git-and-github-survival-guide/">
+  <meta property="og:site_name" content="Mohammed Rashith KP">
+  <meta property="og:title" content="Git & Github Beginner Routines Cheat Sheet">
+  <meta property="og:description" content="🚀 Git &amp; GitHub Beginner Routines Cheat Sheet 🟢 Routine 1: First-Time Setup Step Command Install tools sudo apt-get install git gh curl -y Set username git config --global user.name &#34;your_username&#34; Set email git config --global user.email &#34;your_email@example.com&#34; Login to GitHub gh auth login
+Follow prompts in terminal &amp; browser 🟢 Routine 2: Cloning Repositories Type Command Public repo git clone https://github.com/username/repository.git Private repo gh repo clone username/repository List branches git branch -a Switch branch git checkout branch-name 🟢 Routine 3: Adding a Remote to an Existing Project Step Command Add remote origin git remote add origin https://github.com/username/repository.git 🟢 Routine 4: Keeping Everything Up to Date Method Command Fast-forward only git checkout main\ngit pull –ff-only origin main Rebase (linear history) git checkout main\ngit pull –rebase origin main 🟢 Routine 5: Creating &amp; Working on a Branch Step Command Create &amp; switch branch git checkout -b my-feature Stage changes git add . Commit changes git commit -m &#34;Describe what you did&#34; 🟢 Routine 6: Updating Main &amp; Merging Your Work Step Command Switch to main git checkout main Pull latest changes git pull –ff-only origin main or git pull –rebase origin main Merge your branch git merge my-feature 🟢 Routine 7: Pushing Changes Step Command Push to GitHub git push 🟢 Routine 8: Resolving Conflicts If you see conflict markers in a file:">
+  <meta property="og:locale" content="en_gb">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-06-29T00:56:05+05:30">
+    <meta property="article:modified_time" content="2025-06-29T00:56:05+05:30">
+
+
+    
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Git & Github Beginner Routines Cheat Sheet">
+  <meta name="twitter:description" content="🚀 Git &amp; GitHub Beginner Routines Cheat Sheet 🟢 Routine 1: First-Time Setup Step Command Install tools sudo apt-get install git gh curl -y Set username git config --global user.name &#34;your_username&#34; Set email git config --global user.email &#34;your_email@example.com&#34; Login to GitHub gh auth login
+Follow prompts in terminal &amp; browser 🟢 Routine 2: Cloning Repositories Type Command Public repo git clone https://github.com/username/repository.git Private repo gh repo clone username/repository List branches git branch -a Switch branch git checkout branch-name 🟢 Routine 3: Adding a Remote to an Existing Project Step Command Add remote origin git remote add origin https://github.com/username/repository.git 🟢 Routine 4: Keeping Everything Up to Date Method Command Fast-forward only git checkout main\ngit pull –ff-only origin main Rebase (linear history) git checkout main\ngit pull –rebase origin main 🟢 Routine 5: Creating &amp; Working on a Branch Step Command Create &amp; switch branch git checkout -b my-feature Stage changes git add . Commit changes git commit -m &#34;Describe what you did&#34; 🟢 Routine 6: Updating Main &amp; Merging Your Work Step Command Switch to main git checkout main Pull latest changes git pull –ff-only origin main or git pull –rebase origin main Merge your branch git merge my-feature 🟢 Routine 7: Pushing Changes Step Command Push to GitHub git push 🟢 Routine 8: Resolving Conflicts If you see conflict markers in a file:">
+
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/posts/git-and-github-survival-guide/">
+    <link href="/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css" rel="stylesheet">
+    <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+
+
+
+<link rel="manifest" href="http://localhost:1313/site.webmanifest">
+
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#434648">
+
+    
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
+
+    
+    
+</head>
+<body data-theme = "dark" class="notransition">
+
+<script src="/js/theme.js"></script>
+
+<div class="navbar" role="navigation">
+    <nav class="menu" aria-label="Main Navigation">
+        <a href="http://localhost:1313/" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+stroke-linejoin="round" class="feather feather-home">
+<title>Home</title>
+<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+<polyline points="9 22 9 12 15 12 15 22"></polyline>
+</svg>
+        </a>
+        <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+        <label for="menu-trigger">
+            <span class="menu-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+            </span>
+        </label>
+
+        <div class="trigger">
+            <ul class="trigger-container">
+                
+                
+                <li>
+                    <a class="menu-link " href="/">
+                        Home
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link active" href="/posts/">
+                        Posts
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/projects/">
+                        Projects
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/certifications/">
+                        Certifications
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/about/">
+                        About
+                    </a>
+                    
+                </li>
+                
+                <li class="menu-separator">
+                    <span>|</span>
+                </li>
+                
+                
+            </ul>
+            <a id="mode" href="#">
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-moon" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>DARK</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+            </a>
+        </div>
+    </nav>
+</div>
+
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">Git &amp; Github Beginner Routines Cheat Sheet</h1>
+                
+                
+                
+                <div class="post-meta">
+                    <time datetime="2025-06-29T00:56:05&#43;05:30" itemprop="datePublished"> 29 Jun 2025 </time>
+                </div>
+                
+            </header>
+            
+    
+    <details class="toc" ZgotmplZ>
+        <summary><b>Table of Contents</b></summary>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-routine-1-first-time-setup">🟢 Routine 1: First-Time Setup</a></li>
+    <li><a href="#-routine-2-cloning-repositories">🟢 Routine 2: Cloning Repositories</a></li>
+    <li><a href="#-routine-3-adding-a-remote-to-an-existing-project">🟢 Routine 3: Adding a Remote to an Existing Project</a></li>
+    <li><a href="#-routine-4-keeping-everything-up-to-date">🟢 Routine 4: Keeping Everything Up to Date</a></li>
+    <li><a href="#-routine-5-creating--working-on-a-branch">🟢 Routine 5: Creating &amp; Working on a Branch</a></li>
+    <li><a href="#-routine-6-updating-main--merging-your-work">🟢 Routine 6: Updating Main &amp; Merging Your Work</a></li>
+    <li><a href="#-routine-7-pushing-changes">🟢 Routine 7: Pushing Changes</a></li>
+    <li><a href="#-routine-8-resolving-conflicts">🟢 Routine 8: Resolving Conflicts</a></li>
+  </ul>
+</nav>
+    </details>
+            <div class="page-content">
+                <h1 id="-git--github-beginner-routines-cheat-sheet">🚀 Git &amp; GitHub Beginner Routines Cheat Sheet</h1>
+<h2 id="-routine-1-first-time-setup">🟢 Routine 1: First-Time Setup</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Install tools</strong></td>
+          <td><code>sudo apt-get install git gh curl -y</code></td>
+      </tr>
+      <tr>
+          <td><strong>Set username</strong></td>
+          <td><code>git config --global user.name &quot;your_username&quot;</code></td>
+      </tr>
+      <tr>
+          <td><strong>Set email</strong></td>
+          <td><code>git config --global user.email &quot;your_email@example.com&quot;</code></td>
+      </tr>
+      <tr>
+          <td><strong>Login to GitHub</strong></td>
+          <td><code>gh auth login</code><br><em>Follow prompts in terminal &amp; browser</em></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-2-cloning-repositories">🟢 Routine 2: Cloning Repositories</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Type</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Public repo</strong></td>
+          <td><code>git clone https://github.com/username/repository.git</code></td>
+      </tr>
+      <tr>
+          <td><strong>Private repo</strong></td>
+          <td><code>gh repo clone username/repository</code></td>
+      </tr>
+      <tr>
+          <td><strong>List branches</strong></td>
+          <td><code>git branch -a</code></td>
+      </tr>
+      <tr>
+          <td><strong>Switch branch</strong></td>
+          <td><code>git checkout branch-name</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-3-adding-a-remote-to-an-existing-project">🟢 Routine 3: Adding a Remote to an Existing Project</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Add remote origin</strong></td>
+          <td><code>git remote add origin https://github.com/username/repository.git</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-4-keeping-everything-up-to-date">🟢 Routine 4: Keeping Everything Up to Date</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Method</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Fast-forward only</strong></td>
+          <td><pre>git checkout main\ngit pull &ndash;ff-only origin main</pre></td>
+      </tr>
+      <tr>
+          <td><strong>Rebase (linear history)</strong></td>
+          <td><pre>git checkout main\ngit pull &ndash;rebase origin main</pre></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-5-creating--working-on-a-branch">🟢 Routine 5: Creating &amp; Working on a Branch</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Create &amp; switch branch</strong></td>
+          <td><code>git checkout -b my-feature</code></td>
+      </tr>
+      <tr>
+          <td><strong>Stage changes</strong></td>
+          <td><code>git add .</code></td>
+      </tr>
+      <tr>
+          <td><strong>Commit changes</strong></td>
+          <td><code>git commit -m &quot;Describe what you did&quot;</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-6-updating-main--merging-your-work">🟢 Routine 6: Updating Main &amp; Merging Your Work</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Switch to main</strong></td>
+          <td><code>git checkout main</code></td>
+      </tr>
+      <tr>
+          <td><strong>Pull latest changes</strong></td>
+          <td><pre>git pull &ndash;ff-only origin main</pre> or <pre>git pull &ndash;rebase origin main</pre></td>
+      </tr>
+      <tr>
+          <td><strong>Merge your branch</strong></td>
+          <td><code>git merge my-feature</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-7-pushing-changes">🟢 Routine 7: Pushing Changes</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Push to GitHub</strong></td>
+          <td><code>git push</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="-routine-8-resolving-conflicts">🟢 Routine 8: Resolving Conflicts</h2>
+<p>If you see conflict markers in a file:</p>
+<pre tabindex="0"><code>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+Your changes
+=======
+Their changes
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; main
+</code></pre><table>
+  <thead>
+      <tr>
+          <th>Step</th>
+          <th>Command</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>Edit file</strong></td>
+          <td>Remove conflict markers and keep the final version you want.</td>
+      </tr>
+      <tr>
+          <td><strong>Stage resolved file</strong></td>
+          <td><code>git add filename</code></td>
+      </tr>
+      <tr>
+          <td><strong>Continue rebase</strong></td>
+          <td><code>git rebase --continue</code></td>
+      </tr>
+      <tr>
+          <td><em>(Optional)</em> Cancel rebase</td>
+          <td><code>git rebase --abort</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<p><strong>Tip:</strong> Run <code>git status</code> often to see what has changed.</p>
+<hr>
+<p><strong>⭐ Quick Reference Table</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Action</th>
+          <th>Command Example</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Install</td>
+          <td><code>sudo apt-get install git gh curl -y</code></td>
+      </tr>
+      <tr>
+          <td>Configure</td>
+          <td><code>git config --global user.name &quot;your_username&quot;</code></td>
+      </tr>
+      <tr>
+          <td>Clone Public</td>
+          <td><code>git clone https://github.com/user/repo.git</code></td>
+      </tr>
+      <tr>
+          <td>Clone Private</td>
+          <td><code>gh repo clone user/repo</code></td>
+      </tr>
+      <tr>
+          <td>Pull (fast-forward)</td>
+          <td><code>git pull --ff-only origin main</code></td>
+      </tr>
+      <tr>
+          <td>Pull (rebase)</td>
+          <td><code>git pull --rebase origin main</code></td>
+      </tr>
+      <tr>
+          <td>Create Branch</td>
+          <td><code>git checkout -b branch-name</code></td>
+      </tr>
+      <tr>
+          <td>Switch Branch</td>
+          <td><code>git checkout main</code></td>
+      </tr>
+      <tr>
+          <td>Stage Changes</td>
+          <td><code>git add .</code></td>
+      </tr>
+      <tr>
+          <td>Commit</td>
+          <td><code>git commit -m &quot;message&quot;</code></td>
+      </tr>
+      <tr>
+          <td>Merge Branch</td>
+          <td><code>git merge branch-name</code></td>
+      </tr>
+      <tr>
+          <td>Push</td>
+          <td><code>git push</code></td>
+      </tr>
+      <tr>
+          <td>Resolve Conflicts</td>
+          <td>Edit + <code>git add</code> + <code>git rebase --continue</code></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+
+            </div>
+        </article></main>
+</div>
+<footer class="footer">
+    <span class="footer_item"> </span>
+    &nbsp;
+
+    <div class="footer_social-icons">
+<a href="https://in.linkedin.com/in/mohammed-rashith-kp" target="_blank" rel="noopener noreferrer me"
+    title="Linkedin">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+    <rect x="2" y="9" width="4" height="12"></rect>
+    <circle cx="4" cy="4" r="2"></circle>
+</svg>
+</a>
+<a href="https://github.com/mohammedrashithkp" target="_blank" rel="noopener noreferrer me"
+    title="Github">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+    </path>
+</svg>
+</a>
+<a href="mailto:mohammedrashithkp@gmail.com" target="_blank" rel="noopener noreferrer me"
+    title="Email">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+</a>
+</div>
+    <small class="footer_copyright">
+        © 2025 Mohammed Rashith KP.
+        Powered by <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+    </small>
+</footer><a href="#" title="Go to top" id="totop">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
+    <path d="M283 704.739 234.261 656 480 410.261 725.739 656 677 704.739l-197-197-197 197Z"/>
+</svg>
+
+</a>
+
+
+    
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+
+
+    
+    <script async src="http://localhost:1313/js/main.js" ></script>
+
+    
+
+</body>
+</html>

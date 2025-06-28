@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Mohammed Rashith KP</title>
-    <link>https://mohammedrashithkp.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Mohammed Rashith KP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://mohammedrashithkp.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://mohammedrashithkp.github.io/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedrashithkp.github.io/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;div style=&#34;display: flex; ; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); max-width: 600px;&#34;&gt;
         &lt;img src=&#34;../../../assets/Greenshirt.jpg&#34; alt=&#34;Mohammed Rashith KP&#34; style=&#34;width: 150px; height: auto; border-radius: 5px; margin-right: 20px;&#34;&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://mohammedrashithkp.github.io/pages/certifications/</link>
+      <link>http://localhost:1313/pages/certifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedrashithkp.github.io/pages/certifications/</guid>
+      <guid>http://localhost:1313/pages/certifications/</guid>
       
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Initiation: Starting a Successful Project&lt;/strong&gt; – Google, Coursera, 2024&lt;/li&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://mohammedrashithkp.github.io/pages/projects/</link>
+      <link>http://localhost:1313/pages/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mohammedrashithkp.github.io/pages/projects/</guid>
+      <guid>http://localhost:1313/pages/projects/</guid>
       
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;DRL Based SnakeGame&lt;/strong&gt;:Made a Deep Reinforcement Learning Model to interact with Pygame Environment to learn the Snake game in Python using &lt;strong&gt;Pytorch&lt;/strong&gt; and &lt;strong&gt;Pygame&lt;/strong&gt;&lt;/li&gt;
